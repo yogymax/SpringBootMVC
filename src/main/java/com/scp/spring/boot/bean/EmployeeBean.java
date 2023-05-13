@@ -7,7 +7,13 @@ public class EmployeeBean {
 	 private Integer age;
 	 private Long salary;
 	 private String address;
+
+	 private String lAddress;
+	 private String pAdress;
+
+
 	 private String empilocalAdd;
+
 
 	 @Override
 	public String toString() {
